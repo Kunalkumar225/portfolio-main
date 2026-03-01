@@ -1,0 +1,135 @@
+﻿
+> 3dfolio@0.0.0 build
+> vite build
+
+[36mvite v4.1.4 [32mbuilding for production...[36m[39m
+transforming...
+node.exe : 
+Browserslist: 
+caniuse-lite is 
+outdated. Please run:
+At line:1 char:1
++ & "C:\Program 
+Files\nodejs/node.exe" 
+"C:\Users\SOUMYA\AppDat
+a\Roaming ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (Browserslist:   
+  c...ed. Please ru    
+n::String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+  npx update-browsersli
+st-db@latest
+  Why you should do it 
+regularly: https://gith
+ub.com/browserslist/upd
+ate-db#readme
+[32mΓ£ô[39m 111 modules transformed.
+[31m[vite:css] 
+[postcss] C:/Users/SOUM
+YA/Downloads/Portfolio-
+main/Portfolio-main/src
+/index.css:37:5: The 
+`hover:bg-[rgba(255,` 
+class does not exist. 
+If 
+`hover:bg-[rgba(255,` 
+is a custom class, 
+make sure it is 
+defined within a 
+`@layer` 
+directive.[39m
+file: [36mC:/Users/SOU
+MYA/Downloads/Portfolio
+-main/Portfolio-main/sr
+c/index.css:37:5[39m
+[31merror during 
+build:
+CssSyntaxError: 
+[postcss] C:/Users/SOUM
+YA/Downloads/Portfolio-
+main/Portfolio-main/src
+/index.css:37:5: The 
+`hover:bg-[rgba(255,` 
+class does not exist. 
+If 
+`hover:bg-[rgba(255,` 
+is a custom class, 
+make sure it is 
+defined within a 
+`@layer` directive.
+    at Input.error (C:\
+Users\SOUMYA\Downloads\
+Portfolio-main\Portfoli
+o-main\node_modules\pos
+tcss\lib\input.js:148:1
+6)
+    at AtRule.error (C:
+\Users\SOUMYA\Downloads
+\Portfolio-main\Portfol
+io-main\node_modules\po
+stcss\lib\node.js:60:32
+)
+    at processApply (C:
+\Users\SOUMYA\Downloads
+\Portfolio-main\Portfol
+io-main\node_modules\ta
+ilwindcss\lib\lib\expan
+dApplyAtRules.js:376:29
+)
+    at C:\Users\SOUMYA\
+Downloads\Portfolio-mai
+n\Portfolio-main\node_m
+odules\tailwindcss\lib\
+lib\expandApplyAtRules.
+js:524:9
+    at C:\Users\SOUMYA\
+Downloads\Portfolio-mai
+n\Portfolio-main\node_m
+odules\tailwindcss\lib\
+processTailwindFeatures
+.js:55:50
+    at plugins (C:\User
+s\SOUMYA\Downloads\Port
+folio-main\Portfolio-ma
+in\node_modules\tailwin
+dcss\lib\plugin.js:38:6
+3)
+    at 
+LazyResult.runOnRoot (C
+:\Users\SOUMYA\Download
+s\Portfolio-main\Portfo
+lio-main\node_modules\p
+ostcss\lib\lazy-result.
+js:339:16)
+    at 
+LazyResult.runAsync (C:
+\Users\SOUMYA\Downloads
+\Portfolio-main\Portfol
+io-main\node_modules\po
+stcss\lib\lazy-result.j
+s:393:26)
+    at async 
+compileCSS (file:///C:/
+Users/SOUMYA/Downloads/
+Portfolio-main/Portfoli
+o-main/node_modules/vit
+e/dist/node/chunks/dep-
+ca21228b.js:36736:25)
+    at async 
+Object.transform (file:
+///C:/Users/SOUMYA/Down
+loads/Portfolio-main/Po
+rtfolio-main/node_modul
+es/vite/dist/node/chunk
+s/dep-ca21228b.js:36197
+:56)[39m

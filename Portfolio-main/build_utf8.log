@@ -1,0 +1,14 @@
+
+> 3dfolio@0.0.0 build
+> vite build
+
+[36mvite v4.1.4 [32mbuilding for production...[36m[39m
+transforming...
+[32m✓[39m 44 modules transformed.
+[31mCould not resolve "./CustomCursor" from "src/components/index.js"[39m
+file: [36mC:/Users/SOUMYA/Downloads/Portfolio-main/Portfolio-main/src/components/index.js[39m
+[31merror during build:
+RollupError: Could not resolve "./CustomCursor" from "src/components/index.js"
+    at error (file:///C:/Users/SOUMYA/Downloads/Portfolio-main/Portfolio-main/node_modules/rollup/dist/es/shared/node-entry.js:2095:30)
+    at ModuleLoader.handleInvalidResolvedId (file:///C:/Users/SOUMYA/Downloads/Portfolio-main/Portfolio-main/node_modules/rollup/dist/es/shared/node-entry.js:23603:24)
+    at file:///C:/Users/SOUMYA/Downloads/Portfolio-main/Portfolio-main/node_modules/rollup/dist/es/shared/node-entry.js:23565:26[39m
