@@ -203,7 +203,7 @@ const experiences = [
     company_name: "Magictep Solution Private Limited",
     icon: magicstep,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Nov 2024 - Dec 2024",
     points: [
       "Developed and maintained responsive, mobile-first React.js components to ensure seamless user experience across browsers and devices.",
       "Collaborated with designers to implement pixel-perfect UI components using HTML5, CSS3, and Tailwind CSS, improving user interface consistency.",
@@ -217,7 +217,7 @@ const experiences = [
     company_name: "Wipro",
     icon: wipro,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "July 2025 - Oct 2025",
     points: [
       "Core Java Fundamentals – OOP principles (encapsulation, inheritance, polymorphism, abstraction), data types, collections framework, exception handling, multithreading, and Java 8+ features (Streams, Lambdas, Optional).",
       "Build & Dependency Management – Using Maven/Gradle, project structure, JAR/WAR packaging, environment configuration, and basic CI workflow awareness.",

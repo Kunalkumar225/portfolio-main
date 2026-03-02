@@ -32,7 +32,7 @@ const skillsByCategory = [
         ]
     },
     {
-        category: "DevOps & Tools",
+        category: "Tools",
         skills: [
             { name: "Git", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" },
             { name: "GitHub", icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" },
